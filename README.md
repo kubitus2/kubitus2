@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @superosin
-- 👀 I’m interested in GameDev & general programming.
-- 🌱 I’m currently learning Unity 3D/C#
+# Hello there!
 
-<!---
-superosin/superosin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Jakub. I am Game Design student from Krakow, Poland. I am currently interested in learning all things GameDev.
+
+## GameEngines
+  * Unity (Intermediate)
+  * UnrealEngine (Beginner)
+  * Godot (Beginner)
+
+## Programming languages
+  * C#
+  * C++
+
+## Other stuff
+  * Beginner Blender enthusiast
+  * Basic WebDev
+  * Visualisations, Shaders & Fractals (I'm starting my adventrue with those)
+
+## Non-computer stuff
+  * Hiking
+  * Hitch-hiking
+  * Travel in general
+  * Plant-based cusine
