@@ -14,7 +14,7 @@ My name is Jakub. I am Game Design student from Krakow, Poland. I am currently i
 ## Other stuff
   * Beginner Blender enthusiast
   * Basic WebDev
-  * Visualisations, Shaders & Fractals (I'm starting my adventrue with those)
+  * Visualisations, Shaders & Fractals (I'm starting my adventure with those)
 
 ## Non-computer stuff
   * Hiking
