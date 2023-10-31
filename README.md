@@ -1,23 +1,31 @@
 # Hello there!
 
-My name is Jakub. I am Game Design student from Krakow, Poland. I am currently interested in learning all things GameDev.
+I'm Kuba. I have over two years of experience with Unity as well as .NET in general and full-stack technologies to accompany VR learning solutions (dashboards, reporting tools etc.).
+I'm keen to explore diverse subjects in WebDev and beyond.
 
-## GameEngines
-  * Unity (Intermediate)
-  * UnrealEngine (Beginner)
-  * Godot (Beginner)
-
-## Programming languages
+## 👨🏻‍💻 Programming languages
   * C#
-  * C++
+  * JavaScript/TypeScript
+    
+## 🚀 Frameworks, libraries, etc.
+  * React
+  * Vue.js
+  * .NET Core
+  * Express
+  * Linux 🐧
 
-## Other stuff
-  * Beginner Blender enthusiast
-  * Basic WebDev
-  * Visualisations, Shaders & Fractals (I'm starting my adventure with those)
+## 🎮 GameEngines
+  * Unity 
 
-## Non-computer stuff
+## 📖 Currently learning
+  * CI/CD
+  * Docker 🐳
+  * Python 🐍
+  * C
+
+## ⛺ Other
   * Hiking
-  * Hitch-hiking
-  * Travel in general
-  * Plant-based cusine
+  * Pop-culture
+  * Science
+  * Tour-guide
+  
