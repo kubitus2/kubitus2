@@ -1,31 +1,16 @@
 # Hello there!
 
-I'm Kuba. I have over two years of experience with Unity as well as .NET in general and full-stack technologies to accompany VR learning solutions (dashboards, reporting tools etc.).
-I'm keen to explore diverse subjects in WebDev and beyond.
+I'm Kuba (or Jakub). I have over three years of experience with .NET and full-stack technologies as well as some expertise in GameDev (Unity).
 
 ## 👨🏻‍💻 Programming languages
   * C#
   * JavaScript/TypeScript
-    
-## 🚀 Frameworks, libraries, etc.
-  * React
-  * Vue.js
-  * .NET Core
-  * Express
-  * Linux 🐧
 
 ## 🎮 GameEngines
   * Unity 
 
-## 📖 Currently learning
-  * CI/CD
-  * Docker 🐳
-  * Python 🐍
-  * C
-
-## ⛺ Other
-  * Hiking
+## ⛺ Hobbies
+  * Hiking / Travel 
   * Pop-culture
   * Science
   * Tour-guide
-  
