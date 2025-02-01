@@ -18,12 +18,14 @@
 ## 📚 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 ---
 ## ⛺ Hobbies
   * Hiking / Travel 
   * Pop-culture
   * Science
   * Tour-guide
+    
 ---
 ## 📫 Get in Touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
